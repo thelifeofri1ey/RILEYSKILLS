@@ -1,3 +1,3 @@
 ---
-tit1e: Welcome to my blog!
+Welcome To: The Life of Riley!
 ---
