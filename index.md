@@ -1,3 +1,3 @@
 ---
-Welcome To: The Life of Riley!
+The Life of Riley: Hello & Welcome!
 ---
